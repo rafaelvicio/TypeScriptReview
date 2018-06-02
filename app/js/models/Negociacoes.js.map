@@ -1,0 +1,1 @@
+{"version":3,"file":"Negociacoes.js","sourceRoot":"","sources":["../../ts/models/Negociacoes.ts"],"names":[],"mappings":"AAAA;IAAA;QAEY,iBAAY,GAAiB,EAAE,CAAC;IAW5C,CAAC;IATG,QAAQ,CAAC,UAAsB;QAE3B,IAAI,CAAC,YAAY,CAAC,IAAI,CAAC,UAAU,CAAC,CAAC;IACvC,CAAC;IAED,SAAS;QAEL,OAAO,EAAE,CAAC,MAAM,CAAC,IAAI,CAAC,YAAY,CAAC,CAAC;IACxC,CAAC;CACJ"}
